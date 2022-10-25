@@ -41,7 +41,6 @@
       "events": [
         {
           "item": "EOA_decrease_in_ether",
-          "alert_obj_cnt": 2,
           "current_ether": 80.3,
           "details": [
             {
@@ -122,7 +121,6 @@
         },
         {
           "item": "EOA_decrease_in_erc20",
-          "alert_obj_cnt": 0,
           "current_erc20": [
             {
               "id": 0,
@@ -230,7 +228,6 @@
               "erc721_id": 2
             }
           ],
-          "alert_obj_cnt": 1,
           "details": [
             {
               "isNormal": false,
@@ -251,7 +248,6 @@
         },
         {
           "item": "EOA_suspicious_account",
-          "alert_obj_cnt": 0,
           "details": [
             {
               "isNormal": true,
@@ -287,7 +283,6 @@
         },
         {
           "item": "EOA_tx_over_threshold",
-          "alert_obj_cnt": 1,
           "details": [
             {
               "isNormal": false,
@@ -466,7 +461,6 @@
       "events": [
         {
           "item": "CA_output_outofrange",
-          "alert_obj_cnt": 3,
           "current_method_output": [
             {
               "method_name": "balanceOf",
@@ -515,7 +509,6 @@
         },
         {
           "item": "CA_input_outofrange",
-          "alert_obj_cnt": 0,
           "details": [
             {
               "isNormal": true,
@@ -571,7 +564,6 @@
         },
         {
           "item": "CA_suspicious_account",
-          "alert_obj_cnt": 1,
           "details": [
             {
               "isNormal": false,
@@ -591,34 +583,33 @@
         },
         {
           "item": "CA_tx_over_threshold_in_method",
-          "alert_obj_cnt": 0,
           "details": [
             {
-              "isNormal": false,
+              "isNormal": true,
               "method_name": "transfer",
               "caller": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
               "time": "2022-09-25/10:39"
             },
             {
-              "isNormal": false,
+              "isNormal": true,
               "method_name": "approve",
               "caller": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
               "time": "2022-09-25/10:20"
             },
             {
-              "isNormal": false,
+              "isNormal": true,
               "method_name": "approveForAll",
               "caller": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
               "time": "2022-09-25/10:18"
             },
             {
-              "isNormal": false,
+              "isNormal": true,
               "method_name": "tranferOwnership",
               "caller": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
               "time": "2022-09-25/10:12"
             },
             {
-              "isNormal": false,
+              "isNormal": true,
               "method_name": "deposit",
               "caller": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
               "time": "2022-09-25/10:10"
@@ -627,7 +618,6 @@
         },
         {
           "item": "CA_tx_over_threshold_in_caller",
-          "alert_obj_cnt": 1,
           "details": [
             {
               "isNormal": false,
@@ -717,7 +707,6 @@
         },
         {
           "item": "CA_caller_calls_same_method_in_series",
-          "alert_obj_cnt": 0,
           "details": [
             {
               "isNormal": true,
@@ -753,7 +742,6 @@
         },
         {
           "item": "CA_reentrancy",
-          "alert_obj_cnt": 1,
           "details": [
             {
               "isNormal": false,
@@ -815,7 +803,6 @@
         },
         {
           "item": "CA_custom_event",
-          "alert_obj_cnt": 0,
           "details": [
             {
               "isNormal": true,
@@ -1231,4 +1218,3 @@
     }
   ]
 }
-
