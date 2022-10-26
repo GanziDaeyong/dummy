@@ -2,6 +2,9 @@
 
 ## 추가 설명
 
+설정된 기준량 : the set threshold
+설정된 기간 동안 : during the set period
+
 계정자산 감소(eth) - 보유한 이더가 설정된 기간 동안 설정된 기준량 이상 감소한 경우를 탐지하는 항목입니다. 이 항목이 탐지되는 경우에는 설정된 기간 동안의 모든 이더 전송 관련 트랜잭션을 보여줍니다.
 Decrease in asset (ether)
 
@@ -11,7 +14,7 @@ This item detects when the amount of Ether you have has decreased by more than t
 
 계정자산 감소(ERC-20) - 보유한 ERC-20이 설정된 기간 동안 설정된 기준량 이상 감소한 경우를 탐지하는 항목입니다. 이 항목이 탐지되는 경우에는 설정된 기간 동안의 해당 ERC-20과 관련된 트랜잭션을 보여줍니다.
 
-Decrease in asset (ERC-20) - This item detects when the ERC-20 you have has decreased by more than the set reference amount during the set period. If this item is detected, it shows the transactions related to that ERC-20, which decreased, for the set period.
+Decrease in asset (ERC-20) - This item detects when the amount of ERC-20 you have has decreased by more than the set threshold during the set period. If this item is detected, it shows the transactions related to that ERC-20, which decreased, for the set period.
 
 ---
 
@@ -53,13 +56,13 @@ Detection of suspicious address - This item detects when a suspicious address is
 
 임계치 이상의 트랜잭션 발생 (메서드 기준) - 특정 메서드가 설정된 기간 동안 설정된 기준량 이상 호출된 경우를 탐지하는 항목입니다. 이 항목이 탐지되는 경우, 설정된 기간 동안의 해당 메서드 호출 관련 트랜잭션을 보여줍니다.
 
-Transaction count above threshold (method base) - This item detects when a specific method is called more than the set threshold during the set period. If this item is detected, it shows the transaction related to that method call during the set period.
+Transaction above threshold (by method) - This item detects when a specific method is called more than the set threshold during the set period. If this item is detected, it shows the transaction related to that method call during the set period.
 
 ---
 
 임계치 이상의 트랜잭션 발생 (호출자 기준) - 동일한 호출자가 설정된 기간 동안 설정된 기준량 이상 트랜잭션을 발생시킨 경우를 탐지하는 항목입니다. 이 항목이 탐지되는 경우, 설정된 기간 동안의 해당 호출자가 발생시킨 트랜잭션을 모두 보여줍니다.
 
-Transaction count above threshold (caller base) - This item detects when the same caller has made transactions more than the set threshold during the set period. If this item is detected, it shows all transactions made by that caller during the set period.
+Transaction above threshold (by caller) - This item detects when the same caller has made transactions more than the set threshold during the set period. If this item is detected, it shows all transactions made by that caller during the set period.
 
 ---
 
