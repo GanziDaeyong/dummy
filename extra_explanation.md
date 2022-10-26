@@ -57,10 +57,10 @@ Consecutive method calls from the same caller - This item detects when the same 
 
 ---
 
-재진입 공격 징후 감지 - 재진입 공격이 의심되는 경우를 탐지하는 항목입니다. 이 항목이 탐지되는 경우, 트랜잭션에서 발생한 컨트랙트의 재진입 횟수 및 메시지 콜을 요약해서 보여줍니다.
-Detection of reentrancy attack - Reentrancy attack is presumed. If detected, it shows the number of reentrances took place from the transaction, and summarized message calls.
+재진입 공격 징후 감지 - 재진입 공격이 의심되는 경우를 탐지하는 항목입니다. 이 항목이 탐지되는 경우, 트랜잭션에서 발생한 컨트랙트의 재진입 횟수 및 메시지 콜을 보여줍니다.
+Detection of reentrancy attack - This item detects when a re-entrancy attack is presumed. If this item is detected, it shows the number of reentrances and message calls of the contract executed in the transaction.
 
 ---
 
 사용자 지정 이벤트 - 사용자가 지정한 이벤트가 발생하는 경우를 탐지하는 항목입니다. 이 항목이 탐지되는 경우, 발생한 이벤트와 이벤트 내 파라미터를 보여줍니다.
-User custom event - User selected event is emitted. If detected, it shows the emitted event and its parameters.
+User custom event - This item detects when a user-specified event occurs. When this item is detected, it shows the event that occurred and the parameters within the event.
