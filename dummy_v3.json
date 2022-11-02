@@ -451,11 +451,11 @@
           "is_on": true,
           "event": [
             {
-              "event_name": "tranfer",
+              "event_name": "tranfer(address owner,uint256 amount)",
               "event_hash": "0x27f12abfe35860a9a927b465bb3d4a9c23c8428174b83f278fe45ed7b4da2662"
             },
             {
-              "event_name": "tranferOwnership",
+              "event_name": "tranferOwnership(address from,address to,uint32 token_id)",
               "event_hash": "0x27f12abfe35860a9a927b465bb3d4a9c23c8428174b83f278fe45ed7b4da2662"
             }
           ]
