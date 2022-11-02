@@ -29,6 +29,9 @@
             }
           ]
         },
+        "EOA_decrease_in_erc721": {
+          "is_on": true,
+        },
         "EOA_suspicious_account": {
           "is_on": true
         },
