@@ -819,8 +819,7 @@
             {
               "isNormal": true,
               "txhash": "0xc9c311508f764d84860e4af50607d4d2e34b1a1a8d96d70a8d1559ac699357b9",
-              "event_name": "Approval",
-              "event_signature": "Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)",
+              "event_name": "Approval(address owner,address spender,uint256 value)",
               "info": {
                 "owner": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
                 "spender": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
@@ -830,8 +829,7 @@
             {
               "isNormal": true,
               "txhash": "0xc9c311508f764d84860e4af50607d4d2e34b1a1a8d96d70a8d1559ac699357b9",
-              "event_name": "Transfer",
-              "event_signature": "Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)",
+              "event_name": "Transfer(address src,address dst,uint256 wad)",
               "info": {
                 "src": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
                 "dst": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
@@ -841,8 +839,7 @@
             {
               "isNormal": true,
               "txhash": "0xc9c311508f764d84860e4af50607d4d2e34b1a1a8d96d70a8d1559ac699357b9",
-              "event_name": "Transfer",
-              "event_signature": "Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)",
+              "event_name": "Transfer(address src,address dst,uint256 wad)",
               "info": {
                 "src": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
                 "dst": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
