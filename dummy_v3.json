@@ -30,7 +30,7 @@
           ]
         },
         "EOA_decrease_in_erc721": {
-          "is_on": true,
+          "is_on": true
         },
         "EOA_suspicious_account": {
           "is_on": true
@@ -251,38 +251,8 @@
         },
         {
           "item": "EOA_suspicious_account",
-          "details": [
-            {
-              "isNormal": true,
-              "account_addr": "0x974caa59e49682cda0ad2bbe82983419a2ecc400",
-              "tx_hash": "0xfdf2e551ed22d371200b8e80aa66d7fb95581804530257b42c32139b4b6a497e",
-              "etherscan_link": "https://etherscan.io/tx/0xcbc4da033150528f05149f51d82439c58cebcdd3896ad7971b3c621e34901645"
-            },
-            {
-              "isNormal": true,
-              "account_addr": "0x1b753133325866c3e9bbcf33dc4b1f678e247fdb",
-              "tx_hash": "0xfdf2e551ed22d371200b8e80aa66d7fb95581804530257b42c32139b4b6a497e",
-              "etherscan_link": "https://etherscan.io/tx/0xcbc4da033150528f05149f51d82439c58cebcdd3896ad7971b3c621e34901645"
-            },
-            {
-              "isNormal": true,
-              "account_addr": "0x41c0ccec5de7c71e99d9c29ff4b8c341fa156f0b",
-              "tx_hash": "0xfdf2e551ed22d371200b8e80aa66d7fb95581804530257b42c32139b4b6a497e",
-              "etherscan_link": "https://etherscan.io/tx/0xcbc4da033150528f05149f51d82439c58cebcdd3896ad7971b3c621e34901645"
-            },
-            {
-              "isNormal": true,
-              "account_addr": "0x52f761908cc27b4d77ad7a329463cf08baf62153",
-              "tx_hash": "0xfdf2e551ed22d371200b8e80aa66d7fb95581804530257b42c32139b4b6a497e",
-              "etherscan_link": "https://etherscan.io/tx/0xcbc4da033150528f05149f51d82439c58cebcdd3896ad7971b3c621e34901645"
-            },
-            {
-              "isNormal": true,
-              "account_addr": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
-              "tx_hash": "0xfdf2e551ed22d371200b8e80aa66d7fb95581804530257b42c32139b4b6a497e",
-              "etherscan_link": "https://etherscan.io/tx/0xcbc4da033150528f05149f51d82439c58cebcdd3896ad7971b3c621e34901645"
-            }
-          ]
+          "isNormal": true,
+          "details": []
         },
         {
           "item": "EOA_tx_over_threshold",
@@ -454,7 +424,7 @@
               "event_name": "tranfer(address owner,uint256 amount)"
             },
             {
-              "event_name": "tranferOwnership(address from,address to,uint32 token_id)",
+              "event_name": "tranferOwnership(address from,address to,uint32 token_id)"
             }
           ]
         }
