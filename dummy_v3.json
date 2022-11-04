@@ -588,7 +588,7 @@
           "details": [
             {
               "isNormal": false,
-              "exceeded_amount": 3,
+              "total_exceeded_amount": 3,
               "time_start": "2022-09-24/23:20",
               "time_finish": "2022-09-25/01:20",
               "caller_addr": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
@@ -923,7 +923,6 @@
       "nickname": "Dummy EOA",
       "account_addr": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
       "time": "2022-09-25/01:20",
-      "total_exceeded_amount": 1,
       "time_start": "2022-09-24/23:20",
       "time_finish": "2022-09-25/01:20",
       "tx_obj_list": [
@@ -1039,7 +1038,7 @@
       "nickname": "Dummy CA",
       "account_addr": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
       "time": "2022-09-25/01:20",
-      "exceeded_amount": 3,
+      "total_exceeded_amount": 3,
       "time_start": "2022-09-24/23:20",
       "time_finish": "2022-09-25/01:20",
       "caller_addr": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
