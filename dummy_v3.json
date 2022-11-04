@@ -213,21 +213,18 @@
               "id": 0,
               "name": "BoredApe",
               "addr": "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4",
-              "uri": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fimages%2Ffull%2Fdog_230497594.jpg&imgrefurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fko%2Fdictionary%2Fenglish%2Fdog&tbnid=48lHkI24a1lDuM&vet=12ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ..i&docid=EGY4Ty2FXT1ZkM&w=825&h=1000&q=dog&ved=2ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ",
               "erc721_id": 27
             },
             {
               "id": 1,
               "name": "Metakongz",
               "addr": "0xC9217Cf997934a597031b2E18a9aB6ebD4B9f6a4",
-              "uri": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fimages%2Ffull%2Fdog_230497594.jpg&imgrefurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fko%2Fdictionary%2Fenglish%2Fdog&tbnid=48lHkI24a1lDuM&vet=12ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ..i&docid=EGY4Ty2FXT1ZkM&w=825&h=1000&q=dog&ved=2ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ",
               "erc721_id": 133
             },
             {
               "id": 2,
               "name": "BoredApe",
               "addr": "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4",
-              "uri": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fimages%2Ffull%2Fdog_230497594.jpg&imgrefurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fko%2Fdictionary%2Fenglish%2Fdog&tbnid=48lHkI24a1lDuM&vet=12ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ..i&docid=EGY4Ty2FXT1ZkM&w=825&h=1000&q=dog&ved=2ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ",
               "erc721_id": 2
             }
           ],
@@ -237,7 +234,6 @@
               "token_name": "BoredApe",
               "token_id": 224,
               "txtype": "internaltx",
-              "uri": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fimages%2Ffull%2Fdog_230497594.jpg&imgrefurl=https%3A%2F%2Fwww.collinsdictionary.com%2Fko%2Fdictionary%2Fenglish%2Fdog&tbnid=48lHkI24a1lDuM&vet=12ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ..i&docid=EGY4Ty2FXT1ZkM&w=825&h=1000&q=dog&ved=2ahUKEwjKtszElrL6AhWvRvUHHVObCtIQMygDegUIARDDAQ",
               "txhash": "0xbdebc854bac156cf9d1e55d19072478e26ca2634ab1fec589b03cdd747f4d33d ",
               "from": "0x5CCE38322F190EAB8Abc7Ceb23E816Cf7d3b48DC",
               "to": "0x8df868ad6db6adbbfe09669b3e76dc87d6a2f337",
