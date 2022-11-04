@@ -432,7 +432,6 @@
             {
               "method_name": "balanceOf",
               "input_parameter_name": "address",
-              "input_parameter_type": "address",
               "input_parameter_value": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
               "output_parameter_name": "result",
               "output_value": 90
@@ -444,7 +443,6 @@
               "time": "2022-09-22/10:20",
               "method_name": "balanceOf",
               "input_parameter_name": "address",
-              "input_parameter_type": "address",
               "input_parameter_value": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
               "output_parameter_name": "result",
               "output_value": 30,
@@ -455,7 +453,6 @@
               "time": "2022-09-23/18:04",
               "method_name": "balanceOf",
               "input_parameter_name": "address",
-              "input_parameter_type": "address",
               "input_parameter_value": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
               "output_parameter_name": "result",
               "output_value": 50,
@@ -466,7 +463,6 @@
               "time": "2022-09-23/20:49",
               "method_name": "balanceOf",
               "input_parameter_name": "address",
-              "input_parameter_type": "address",
               "input_parameter_value": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
               "output_parameter_name": "result",
               "output_value": 90,
@@ -482,7 +478,6 @@
               "time": "2022-09-22/10:20",
               "method_name": "transfer",
               "input_parameter_name": "amount",
-              "input_parameter_type": "amount",
               "input_parameter_value": 2.4,
               "tx_hash": "0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9",
               "etherscan_link": "https://etherscan.io/tx/0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9"
@@ -492,7 +487,6 @@
               "time": "2022-09-22/10:30",
               "method_name": "transfer",
               "input_parameter_name": "amount",
-              "input_parameter_type": "amount",
               "input_parameter_value": 2.4,
               "tx_hash": "0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9",
               "etherscan_link": "https://etherscan.io/tx/0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9"
@@ -502,7 +496,6 @@
               "time": "2022-09-22/10:40",
               "method_name": "transfer",
               "input_parameter_name": "amount",
-              "input_parameter_type": "amount",
               "input_parameter_value": 2.4,
               "tx_hash": "0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9",
               "etherscan_link": "https://etherscan.io/tx/0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9"
@@ -512,7 +505,6 @@
               "time": "2022-09-22/10:50",
               "method_name": "transfer",
               "input_parameter_name": "amount",
-              "input_parameter_type": "amount",
               "input_parameter_value": 2.4,
               "tx_hash": "0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9",
               "etherscan_link": "https://etherscan.io/tx/0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9"
@@ -522,7 +514,6 @@
               "time": "2022-09-22/11:20",
               "method_name": "transfer",
               "input_parameter_name": "amount",
-              "input_parameter_type": "amount",
               "input_parameter_value": 2.4,
               "tx_hash": "0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9",
               "etherscan_link": "https://etherscan.io/tx/0xc271adc7a11b4e88b5a9479472d8ffa387b487405adf6c8e4a07625829d056b9"
@@ -607,12 +598,12 @@
                   "called_method_input": [
                     {
                       "input_parameter_name": "address",
-                      "input_parameter_type": "address",
+
                       "input_parameter_value": "0x881d40237659c251811cec9c364ef91dc08d300c"
                     },
                     {
                       "input_parameter_name": "amount",
-                      "input_parameter_type": "uint256",
+
                       "input_parameter_value": 52
                     }
                   ],
@@ -632,12 +623,10 @@
                   "called_method_input": [
                     {
                       "input_parameter_name": "address",
-                      "input_parameter_type": "address",
                       "input_parameter_value": "0x881d40237659c251811cec9c364ef91dc08d300c"
                     },
                     {
                       "input_parameter_name": "amount",
-                      "input_parameter_type": "uint256",
                       "input_parameter_value": 52
                     }
                   ],
@@ -657,12 +646,10 @@
                   "called_method_input": [
                     {
                       "input_parameter_name": "address",
-                      "input_parameter_type": "address",
                       "input_parameter_value": "0x881d40237659c251811cec9c364ef91dc08d300c"
                     },
                     {
                       "input_parameter_name": "amount",
-                      "input_parameter_type": "uint256",
                       "input_parameter_value": 52
                     }
                   ],
@@ -980,7 +967,6 @@
       "time": "2022-09-23/14:04",
       "method_name": "balanceOf",
       "input_parameter_name": "address",
-      "input_parameter_type": "address",
       "input_parameter_value": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
       "output_parameter_name": "result",
       "output_value": 30,
@@ -994,7 +980,6 @@
       "time": "2022-09-23/18:04",
       "method_name": "balanceOf",
       "input_parameter_name": "address",
-      "input_parameter_type": "address",
       "input_parameter_value": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
       "output_parameter_name": "result",
       "output_value": 50,
@@ -1008,7 +993,6 @@
       "time": "2022-09-23/20:49",
       "method_name": "balanceOf",
       "input_parameter_name": "address",
-      "input_parameter_type": "address",
       "input_parameter_value": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
       "output_parameter_name": "result",
       "output_value": 90,
@@ -1057,12 +1041,10 @@
           "called_method_input": [
             {
               "input_parameter_name": "address",
-              "input_parameter_type": "address",
               "input_parameter_value": "0x881d40237659c251811cec9c364ef91dc08d300c"
             },
             {
               "input_parameter_name": "amount",
-              "input_parameter_type": "uint256",
               "input_parameter_value": 52
             }
           ],
@@ -1082,12 +1064,10 @@
           "called_method_input": [
             {
               "input_parameter_name": "address",
-              "input_parameter_type": "address",
               "input_parameter_value": "0x881d40237659c251811cec9c364ef91dc08d300c"
             },
             {
               "input_parameter_name": "amount",
-              "input_parameter_type": "uint256",
               "input_parameter_value": 52
             }
           ],
@@ -1107,12 +1087,10 @@
           "called_method_input": [
             {
               "input_parameter_name": "address",
-              "input_parameter_type": "address",
               "input_parameter_value": "0x881d40237659c251811cec9c364ef91dc08d300c"
             },
             {
               "input_parameter_name": "amount",
-              "input_parameter_type": "uint256",
               "input_parameter_value": 52
             }
           ],
