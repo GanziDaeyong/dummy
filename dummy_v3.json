@@ -48,7 +48,6 @@
           "details": [
             {
               "isNormal": false,
-              "total_decreased_amount": 2,
               "time_start": "2022-09-24/23:20",
               "time_finish": "2022-09-25/01:20",
               "before_ether": 85.2,
